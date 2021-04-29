@@ -13,7 +13,7 @@
 ### 구초
 <img src = "./picture/abstract-factoryt.PNG" width='500' />
 
-### 예제코드
+### 첫번째 예제코드
 ```
 public interface Wheel{
     
@@ -89,3 +89,4 @@ public class GtBikeFactory implements BikeFactory{
     }
 }
 ```
+
